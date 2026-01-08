@@ -1,5 +1,1 @@
-C:\projects\job4j_finder\data\dataResult1.txt
-C:\projects\job4j_finder\data\dataResult2.txt
-C:\projects\job4j_finder\data\dataResult3.txt
 C:\projects\job4j_finder\data\dataResult4.txt
-C:\projects\job4j_finder\data\log.txt
